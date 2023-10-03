@@ -1,8 +1,8 @@
 # Felippe 🇧🇷
 
-### Backend Developer:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### Backend Developer 
+<img src="https://img.shields.io/badge/PHP-555555?style=for-the-badge&logo=php&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Golang-555555?style=for-the-badge&logo=go&logoColor=white" height="20" />
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-gaede/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-gaede/)
